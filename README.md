@@ -12,3 +12,4 @@ Implement a factor graph estimator for a Kalman filter applied to an AR-1 Gaussi
 ## Task 2
 
 Implement a factor graph estimator for a binary LDPC code using the tanh method.
+ * __Code__: `class CheckNodeTanh(GenericNode)`
