@@ -6,6 +6,8 @@ The estimation is based on belief propagation, as discussed in the following art
 Note that the factor graph structure contained in this Python file matches the structure of [24].
 
 ## Task 1
+ * __Code__: `class CheckNodeTanh(GenericNode)`
+ * __Code__: MMSE estimator for full Gaussian vector.
 
 Implement a factor graph estimator for a Kalman filter applied to an AR-1 Gaussian process.
 
